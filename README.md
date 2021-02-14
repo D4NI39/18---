@@ -23,6 +23,7 @@ $ cd CeritaSange
 $ pip2 install requests mechanize 
 
 $ pip2 install lolcat
+
 $ ls
 
 $ sh cerita.sh
