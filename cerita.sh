@@ -17,7 +17,7 @@ echo "\033[1;32m[03].Adik dan kakak yang polos"
 echo "\033[1;37m[00].Exit"
 echo
 echo 
-read -p "\033[1;33m『Pilih Mana Mas』✑ " mas
+read -p "\033[1;33m『Pilih Mana Tod』✑ " mas
 
 if [ $mas = 01 ] || [ $mas = 1 ]
 then
