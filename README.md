@@ -1,4 +1,4 @@
-# 18+
+# 18---
 
 
 # Install
@@ -13,12 +13,12 @@ $ pkg install ruby
 
 $ gem install lolcat
 
-$ git clone https://github.com/D4NI39/18+
+$ git clone https://github.com/D4NI39/18---
 
 
 # Run Script
 
-$ cd 18+
+$ cd 18---
 
 $ pip2 install requests mechanize 
 
