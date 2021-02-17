@@ -1,5 +1,5 @@
-# CeritaSange
-Canda Sange:v
+# 18+
+
 
 # Install
 
@@ -13,12 +13,12 @@ $ pkg install ruby
 
 $ gem install lolcat
 
-$ git clone https://github.com/D4NI39/CeritaSange
+$ git clone https://github.com/D4NI39/18+
 
 
 # Run Script
 
-$ cd CeritaSange
+$ cd 18+
 
 $ pip2 install requests mechanize 
 
@@ -26,4 +26,4 @@ $ pip2 install lolcat
 
 $ ls
 
-$ sh cerita.sh
+$ php xxnx.php
