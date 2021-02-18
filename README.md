@@ -5,7 +5,7 @@
 
 $ pkg update && pkg upgrade
 
-$ pkg install bash
+$ pkg install php
 
 $ pkg install git
 
